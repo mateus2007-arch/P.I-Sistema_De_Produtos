@@ -10,16 +10,14 @@ Em desenvolvimento
 - Git e GitHub
 
 ## Desenvolvedor
-- Mateus Nascimento
+- Mateus Nascimento Ferreira de Sousa
 
 ## Objetivo do Software
 O sistema tem como objetivo gerenciar produtos e usuários, permitindo o controle de estoque, cadastro e autenticação de usuários, facilitando a organização das informações.
 
 ## Funcionalidades do Sistema
 - Login de usuário
-- Cadastro de usuários
 - Cadastro de produtos
 - Edição de produtos
 - Exclusão de produtos
 - Listagem de produtos
-- Interface gráfica interativ
